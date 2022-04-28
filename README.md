@@ -4,7 +4,7 @@
 ## Description
 Giving people a way to track their money is a necessity these days, allowing them to access that information at any time is even more important. Having offline functionality is crucial to the success of an application that handles users’ financial information.
 
-### ![demo](file:///Users/johnthughes/Desktop/img/Screen%20Shot%202022-04-28%20at%2010.51.41%20AM.png)
+### ![demo](file:///Users/johnthughes/Desktop/img/Screen%20Shot%202022-04-28%20at%2010.51.41%20AM.png)(https://secure-peak-23004.herokuapp.com/)
 
 
 ## Table of Contents
