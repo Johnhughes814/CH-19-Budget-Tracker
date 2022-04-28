@@ -50,3 +50,17 @@ function checkDatabase() {
         }
     };
 }
+
+function saveRecord(record) {
+    const db = request.result;
+    const transaction = db.transaction([pendingObjectStoreName], `readwrite`);
+
+
+    const store = transaction.objectStore(pendingObjectStoreName);
+
+
+    store.add(record);
+}
+
+
+window.addEventListener(`online`, checkDatabase);
